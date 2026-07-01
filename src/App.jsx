@@ -612,7 +612,7 @@ export default function App() {
       </section>
 
       {/* Interactive Anatomy & Decompression Spotlight Map */}
-      <section id="decompression" className="py-24 bg-brand-background relative overflow-hidden">
+      <section id="decompression" className="py-24 bg-brand-background relative overflow-hidden hidden md:block">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
             {/* Left Content */}
